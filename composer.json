@@ -97,7 +97,6 @@
                 "#3143747: Avoid error on installation": "https://www.drupal.org/files/issues/2020-05-29/config_rewrite-avoid-error-on-installation-3143747.patch"
             },
             "drupal/private_message": {
-                "Missing text format: basic_html": "https://www.drupal.org/files/issues/2020-03-23/basic_html_to_plain_text-3121606-2.patch",
                 "Inbox not updated when empty": "https://www.drupal.org/files/issues/2019-11-25/private-message-inbox-when-empty-3095676-5.patch"
             },
             "drupal/calendar": {
