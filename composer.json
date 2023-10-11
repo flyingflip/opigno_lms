@@ -31,7 +31,7 @@
         "commerceguys/addressing": "~1.0.7",
         "drupal/key": "~1.14.0",
         "drupal/state_machine": "~1.5.0",
-        "kenwheeler/slick": "~1.8.1",
+        "kenwheeler/slick": "~1.6.1",
         "drupal/dropzonejs": "^2.6",
         "enyo/dropzone": "v5.5.0",
         "drupal/message_notify": "~1.2.0",
